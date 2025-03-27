@@ -14,6 +14,7 @@ It provides the foundational structure for an e-commerce platform, including ess
 
 ## Installation
 1.Clone the repository:
+
 git clone https://github.com/yourusername/myapp1.git
 
 2.Build the project using Maven:
@@ -21,12 +22,15 @@ git clone https://github.com/yourusername/myapp1.git
 mvn clean install
 
 3.Run the application:
+
 mvn spring-boot:run
 
 4.Open your browser and go to the following URL:
+
 http://localhost:8080/app/msg
 
 5.You should see the following message:
+
 Hello SpringBoot
 
 ## Usage
