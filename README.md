@@ -13,21 +13,8 @@ It provides the foundational structure for an e-commerce platform, including ess
 - Maven project structure
 
 ## Project Structure
+![Screenshot (58)](https://github.com/user-attachments/assets/4065bf11-7142-4f95-a4b1-81e40ed84a9c)
 
-myapp1/
-├── src/
-│   ├── main/
-│   │   ├── java/lk/ac/vau/fas/myapp1/
-│   │   │   ├── Myapp1Application.java
-│   │   │   ├── AppController.java
-│   │   ├── resources/
-│   │       ├── application.properties
-│   ├── test/
-│       ├── java/lk/ac/vau/fas/myapp1/
-│           ├── Myapp1ApplicationTests.java
-├── pom.xml
-├── .gitignore
-├── mvnw / mvnw.cmd
 
 ## Installation
 1.Clone the repository:
