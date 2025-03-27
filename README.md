@@ -6,11 +6,11 @@ It provides the foundational structure for an e-commerce platform, including ess
 
 ## Features
 
--Spring Boot framework
+- Spring Boot framework
 
--RESTful API design
+- RESTful API design
 
--Maven project structure
+- Maven project structure
 
 ## Installation
 1.Clone the repository:
@@ -30,8 +30,8 @@ http://localhost:8080/app/msg
 Hello SpringBoot
 
 ## Usage
--Access the endpoint /app/msg to get a simple message.
--This is a basic setup, and you can build upon it for further functionality.
+- Access the endpoint /app/msg to get a simple message.
+- This is a basic setup, and you can build upon it for further functionality.
 
 ## License
 This project is open source.
